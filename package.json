@@ -9,7 +9,6 @@
     "lite": "lite-server",
     "start": "npm run",
     "watch:all": "parallelshell \"npm run watch:scss\" \"npm run lite\""
-
   },
   "author": "",
   "license": "MIT",
